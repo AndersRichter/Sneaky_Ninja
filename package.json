@@ -1,0 +1,19 @@
+{
+  "name": "sneaky_ninja",
+  "version": "1.0.0",
+  "description": "Some tasks and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersRichter/Sneaky_Ninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersRichter/Sneaky_Ninja/issues"
+  },
+  "homepage": "https://github.com/AndersRichter/Sneaky_Ninja#readme"
+}
